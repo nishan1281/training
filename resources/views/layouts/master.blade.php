@@ -24,7 +24,7 @@
 
     @section('banner')
 
-        <div class="container col-md-12">
+        <div class="container col-md-12 ">
 
             <!-- banner -->
             <div class="row grid1" class="container-fluid">
