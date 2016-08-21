@@ -1,4 +1,4 @@
-@extends('layouts.master')
+@extends('layouts.common_shop_master')
 
 @section('title', 'Page Title')
 
